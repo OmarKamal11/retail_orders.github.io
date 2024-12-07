@@ -7,24 +7,35 @@ Initially, the dataset was thoroughly explored to understand its structure, iden
 The cleaning process involved:
 Removing Unnecessary Columns: Columns that did not contribute to the analysis were removed.
 Adding Useful Columns: New columns were introduced to enhance the dataset's analytical value. These included:
+
 Discount: Calculated to understand the impact of discounts on sales.
+
 Sale Price: Computed to reflect the final selling price after discounts and cost price.
+
 Profit: Determined to evaluate profitability.
 
 
 ### Step 2: Advanced Data Analysis using SQL
 To perform more sophisticated analyses, the cleaned dataset was imported into an SQL server. Various SQL queries were executed to generate insightful metrics and summaries, including:
+
 Total Sales and Profit: Aggregated sales and profit figures to identify top-performing products and categories.
+
 Monthly and Yearly Trends: Analysis of sales trends over time to detect seasonal patterns.
+
 Customer Behavior: Insights into customer purchase patterns and their impact on sales.
+
 Profit Margins: Calculation of profit margins to assess the financial health of different product lines.
 
 
 ### Step 3: Result Synthesis and Visualization
 The results of the SQL queries provided a comprehensive view of the business's performance. Key findings included:
+
 Top Categories and Products: Identification of the most profitable categories and products.
+
 Sales Growth: Year-over-year comparison of sales growth to measure business expansion.
+
 Customer Insights: Understanding customer preferences and their effect on sales and profit margins.
+
 Operational Efficiency: Highlighting areas where cost optimization could enhance profitability.
 
 
